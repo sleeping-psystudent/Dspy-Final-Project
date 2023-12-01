@@ -1,7 +1,0 @@
-beautifulsoup4
-requests
-html5lib
-matplotlib
-selenium
-jieba
-lxml
