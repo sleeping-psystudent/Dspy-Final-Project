@@ -1,4 +1,7 @@
 # ❤️‍🔥1992-2020新興韓團火熱程度關聯分析❤️‍🔥
+
+[![hackmd-github-sync-badge](https://hackmd.io/nsd-C6eKS02EbIJvBErsNg/badge)](https://hackmd.io/nsd-C6eKS02EbIJvBErsNg)
+
 **作者**：歷史二 [王學謙](https://github.com/Ken7222)、心理五 [李采蓉](https://github.com/sleeping-psystudent)、地理碩 [賴郁升](https://github.com/yusheng1027)<br>
 **報告日期**：2023/12/21
 - 👉[Github](https://github.com/sleeping-psystudent/Dspy-Final-Project.git)👈
