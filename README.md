@@ -3,7 +3,8 @@
 **Authors**：[王學謙 Wang Hsueh-Chien](https://github.com/Ken7222), [李采蓉 Lee Tsai-Rung](https://github.com/sleeping-psystudent), [賴郁升 Lai Yu-Sheng](https://github.com/yusheng1027)<br>
 
 **Our proposal 👉[This Way](https://github.com/sleeping-psystudent/Dspy-Final-Project/blob/main/Proposal.md)👈**<br>
-**Our final report 👉[This Way](https://hackmd.io/@895n2PoiTf6zr08FjTMQ_Q/B1pipknLT)👈**
+**Our result 👉[This Way](https://hackmd.io/@895n2PoiTf6zr08FjTMQ_Q/B1pipknLT)👈**
+**Our report 👉[This Way](https://hackmd.io/@895n2PoiTf6zr08FjTMQ_Q/B1pipknLT)👈**
 
 ## Motivation
 This repository serves as our final project for [Introduction to programming for data science](https://lopentu.github.io/dspy2023/).
