@@ -9,5 +9,5 @@ In recent years, the K-pop phenomenon has swept across the globe. However, besid
 
 ---
 
-|[Proposal](https://github.com/sleeping-psystudent/Dspy-Final-Project/blob/main/Proposal.md)|[Progress Report](https://github.com/sleeping-psystudent/Dspy-Final-Project/blob/main/Progress%20Report.pdf)|[Written Report](https://hackmd.io/@895n2PoiTf6zr08FjTMQ_Q/B1pipknLT)|[Showcase Webpage](https://hackmd.io/@895n2PoiTf6zr08FjTMQ_Q/B1pipknLT)|
+|[Proposal](https://github.com/sleeping-psystudent/Dspy-Final-Project/blob/main/Proposal.md)|[Progress Report](https://github.com/sleeping-psystudent/Dspy-Final-Project/blob/main/Progress%20Report.pdf)|[Final Report](https://github.com/sleeping-psystudent/Dspy-Final-Project/blob/main/Final%20Report.pdf)|[Showcase Webpage](https://hackmd.io/@895n2PoiTf6zr08FjTMQ_Q/B1pipknLT)|
 |--------|---------------|--------------|----------------|
