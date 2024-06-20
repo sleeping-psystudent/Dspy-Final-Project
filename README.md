@@ -1,4 +1,4 @@
-# Correlation Analysis of the Popularity Trends of Emerging South Korean Pop Bands from 1992 to 2020
+# Correlation Analysis of the Popularity Trends of Emerging South Korean Pop Bands from 1992 to 2020 
 **Authors**：[王學謙 Wang Hsueh-Chien](https://github.com/Ken7222), [李采蓉 Lee Tsai-Rung](https://github.com/sleeping-psystudent), [賴郁升 Lai Yu-Sheng](https://github.com/yusheng1027)<br>
 
 |[Proposal](https://github.com/sleeping-psystudent/Dspy-Final-Project/blob/main/Proposal.md)|[Progress Report](https://github.com/sleeping-psystudent/Dspy-Final-Project/blob/main/Progress%20Report.pdf)|[Final Report](https://github.com/sleeping-psystudent/Dspy-Final-Project/blob/main/Final%20Report.pdf)|[Showcase Webpage](https://hackmd.io/@895n2PoiTf6zr08FjTMQ_Q/B1pipknLT)|
